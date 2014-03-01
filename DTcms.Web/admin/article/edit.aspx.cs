@@ -15,6 +15,7 @@ namespace DTcms.Web.admin.article
         private int channel_id;
         private int id = 0;
 
+
         protected void Page_Load(object sender, EventArgs e)
         {
             string _action = DTRequest.GetQueryString("action");

@@ -64,7 +64,7 @@
 
     <div class="tab_con" style="display:block;">
         <table class="form_table">
-            <col width="150px"><col>
+            <col width="150px" />
             <tbody>
             <tr>
                 <th>所属类别：</th>
@@ -149,7 +149,7 @@
                 <td>
                     <table border="0" cellspacing="0" cellpadding="0" class="border_table">
                         <tbody>
-                        <col width="80px"><col>
+                        <col width="80px"/>
                         <tr>
                             <th>属性一</th>
                             <td><input name="nav_url" type="text" value="" class="txtInput middle" /></td>
@@ -173,7 +173,7 @@
 
     <div class="tab_con">
         <table class="form_table">
-            <col width="150px"><col>
+            <col width="150px"/>
             <tbody>
             <tr>
                 <th>赞成人数：</th>
@@ -199,7 +199,7 @@
 
     <div class="tab_con">
         <table class="form_table">
-            <col width="150px"><col>
+            <col width="150px"/>
             <tbody>
             <tr>
                 <th>SEO标题：</th>
